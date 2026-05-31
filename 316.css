@@ -1,0 +1,7 @@
+#headContainer{
+    background-color: antiquewhite;
+}
+#Word{
+    display: flex;
+    border: 20px solid black;
+}
